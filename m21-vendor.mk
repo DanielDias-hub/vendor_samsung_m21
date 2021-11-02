@@ -52,7 +52,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m21/proprietary/vendor/lib64/libengmode_client.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libengmode_client.so \
     vendor/samsung/m21/proprietary/vendor/lib64/libexynoscamera3.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libexynoscamera3.so \
     vendor/samsung/m21/proprietary/vendor/lib64/libmdf.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmdf.so \
-    vendor/samsung/m21/proprietary/vendor/lib64/libril-samsung.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libril-samsung.so \
+    vendor/samsung/m21/proprietary/vendor/lib64/libril.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libril-samsung.so \
     vendor/samsung/m21/proprietary/vendor/lib64/libsec-ril-dsds.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsec-ril-dsds.so \
     vendor/samsung/m21/proprietary/vendor/lib64/libsec-ril.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsec-ril.so \
     vendor/samsung/m21/proprietary/vendor/lib64/libsecril-client.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsecril-client.so \
